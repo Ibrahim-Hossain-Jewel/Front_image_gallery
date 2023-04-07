@@ -1,4 +1,4 @@
-# Getting Started with CRUD React Redux Redux-saga App
+# Getting Started with Image Gallery Store with React Redux Redux-saga App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
